@@ -3,6 +3,26 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nproc"]
+	path = nproc
+	url = https://github.com/cran/nproc
+	shallow = true
+	registered = true
+[submodule "pgraph"]
+	path = pgraph
+	url = https://github.com/cran/pgraph
+	shallow = true
+	registered = true
+[submodule "r02pro"]
+	path = r02pro
+	url = https://github.com/cran/r02pro
+	shallow = true
+	registered = true
+[submodule "RAMP"]
+	path = RAMP
+	url = https://github.com/cran/RAMP
+	shallow = true
+	registered = true
 [submodule "SIS"]
 	path = SIS
 	url = https://github.com/yangfengstat/sis
