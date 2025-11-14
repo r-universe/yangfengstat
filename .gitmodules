@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "RAMP"]
 	path = RAMP
-	url = https://github.com/cran/RAMP
+	url = https://github.com/yangfengstat/ramp
 [submodule "SIS"]
 	path = SIS
 	url = https://github.com/yangfengstat/sis
