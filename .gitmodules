@@ -16,4 +16,4 @@
 	url = https://github.com/cran/pgraph
 [submodule "r02pro"]
 	path = r02pro
-	url = https://github.com/cran/r02pro
+	url = https://github.com/yangfengstat/r02pro
